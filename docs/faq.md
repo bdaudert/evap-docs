@@ -59,7 +59,7 @@ Reservoir AEV information is collated from numerous online databases and resourc
 3. Click on "Try it out"
 4. Fill out the form
 5. Click 'Execute'
-6. Your API key will be issued within 24 hours via email
+6. Your API key will be issued via email within 1 to 2 business days
 
 ## What do the data flags mean?
 
